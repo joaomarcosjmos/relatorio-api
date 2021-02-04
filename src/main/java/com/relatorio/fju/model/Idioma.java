@@ -5,9 +5,8 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Projeto {
+public class Idioma {
 
     private Long id;
-    private String nomeProjeto;
-
+    private String nomeIdioma;
 }
